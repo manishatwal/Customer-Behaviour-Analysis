@@ -90,15 +90,25 @@ This project helps e-commerce businesses to:
 
 ##  Repository Contents
 
-| File Name                                 | Description                                                                        |
-| ----------------------------------------- | ---------------------------------------------------------------------------------- |
-| `amazon-purchases.csv`                    | Transaction-level purchase records (orders, products, pricing, quantities, states) |
-| `survey.csv`                              | Customer demographics and survey responses                                         |
-| `fields.csv`                              | Metadata file explaining survey fields                                             |
-| `cleaned_customer_data.csv`               | Processed dataset after cleaning and feature engineering                           |
-| `Customer_Behavior_Analysis.ipynb`        | Full PySpark notebook with data prep, EDA, RFM clustering, and insights            |
-| `Report_Manish_Atwal.pdf`                 | Executive business report with insights and recommendations                        |
+| File Name                                 | Description                                                             |
+| ----------------------------------------- | ----------------------------------------------------------------------- |
+| `cleaned_customer_data.csv`               | Processed dataset after cleaning and feature engineering                |
+| `Customer_Behavior_Analysis.ipynb`        | Full PySpark notebook with data prep, EDA, RFM clustering, and insights |
+| `Report_Manish_Atwal.pdf`                 | Executive business report with insights and recommendations             |
 
+---
+
+##  Dataset Access
+
+The original raw dataset (too large to host directly on GitHub) can be downloaded from **Harvard Dataverse**:
+
+[Amazon Customer Behavior Dataset (2018–2022)](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/YGLYDY&version=1.0)
+
+This includes the following CSV files:
+
+* `amazon-purchases.csv` – Transactional purchase data
+* `survey.csv` – Demographic and survey data
+* `fields.csv` – Metadata for survey questions
 
 ---
 
