@@ -92,7 +92,6 @@ This project helps e-commerce businesses to:
 
 | File Name                                 | Description                                                             |
 | ----------------------------------------- | ----------------------------------------------------------------------- |
-| `cleaned_customer_data.csv`               | Processed dataset after cleaning and feature engineering                |
 | `Customer_Behavior_Analysis.ipynb`        | Full PySpark notebook with data prep, EDA, RFM clustering, and insights |
 | `Report_Manish_Atwal.pdf`                 | Executive business report with insights and recommendations             |
 
